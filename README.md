@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software Engineering at ALX.
-- 🌱 &nbsp; Currently Learning Responsive Wb Design and Front-End Development Libraries.
+- 🌱 &nbsp; Currently Learning Responsive Web Design and Front-End Development Libraries.
 - Open for project collaboration and internship opportunities. 
 
 <h3>🛠 Tech Stack</h3>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🌐 &nbsp; HTML | CSS | Bootstrap | jQuery | ReactJS
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=onlyArsh&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=Daniel-Williams-ux)
 
 ### 📫🤝🏻 Connect with Me
 
