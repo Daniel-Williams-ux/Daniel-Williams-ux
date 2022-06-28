@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | C 
+- 💻 &nbsp; Javascript | C | Python
 - 🌐 &nbsp; HTML | CSS | Bootstrap | jQuery | ReactJS
 
 
