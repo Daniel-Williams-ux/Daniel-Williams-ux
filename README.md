@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Cloud DevOps Engineering
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software Engineering at ALX.
-- 🌱 &nbsp; Currently Learning Responsive Web Design and Front-End Development Libraries.
+- 🌱 &nbsp; Currently Learning Cloud DevOps Engineering at Udacity.
 - Open for project collaboration and internship opportunities. 
 
 <h3>🛠 Tech Stack</h3>
@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
  - Shoot Me an [Email](williamsoligodaniel@gmail.com) 💌
  - [GitHub Profile Summary](https://profile-summary-for-github.com/user/Daniel-Williams-ux)
+ - [Portfolio Website Summary](https://my-portfolio-website.danielwilliam23.repl.co/) 
 
 
 
