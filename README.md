@@ -18,14 +18,15 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Software Engineering at ALX.
-- 🌱 &nbsp; Currently Learning Cloud DevOps Engineering at Udacity.
-- Open for project collaboration and internship opportunities. 
+- 🎓 &nbsp;  Software Engineer.
+🎓 &nbsp;  Cloud Practitioner.
+- Open for project collaboration. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | C | Python
+- 💻 &nbsp; Javascript | Python
 - 🌐 &nbsp; HTML | CSS | Bootstrap | jQuery | ReactJS | SASS | Redux | NodeJs
+- 🌐 &nbsp; Cloud Computing | Firebase | 
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Daniel-Williams-ux)
