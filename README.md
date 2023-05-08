@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp;  Software Engineer.
-🎓 &nbsp;  Cloud Practitioner.
+🎓 &nbsp;  AWS Cloud Practitioner.
 - Open for project collaboration. 
 
 <h3>🛠 Tech Stack</h3>
