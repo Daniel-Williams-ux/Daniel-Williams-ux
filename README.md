@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 
 - 💻 &nbsp; Javascript | Python
 - 🌐 &nbsp; HTML | CSS | Bootstrap | jQuery | ReactJS | SASS | Redux | NodeJs
-- 🌐 &nbsp; Cloud Computing | Firebase | 
+- 🌐 &nbsp; AWS compute | networking |database | security services
+- 🌐 &nbsp; Node | Express |MongoDB | web socket
+- 🌐 &nbsp; Quality Assurance
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Daniel-Williams-ux)
