@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 💻 &nbsp; Javascript | Python
 - 🌐 &nbsp; HTML | CSS | Bootstrap | jQuery | ReactJS | SASS | Redux | NodeJs
-- 🌐 &nbsp; AWS compute | networking |database | security services
+- 🌐 &nbsp; AWS compute | MongoDB Database Administrator | security services
 - 🌐 &nbsp; Node | Express |MongoDB | web socket
 - 🌐 &nbsp; Quality Assurance
 
